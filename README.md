@@ -1,4 +1,4 @@
-# Dynamodb.project
+#  Projeto Dynamodb
 
 Criando Tabela Usando Dynamodb
 
